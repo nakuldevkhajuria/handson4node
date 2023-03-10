@@ -42,7 +42,7 @@ const Login = () => {
       <br />
       <p>OR</p>
       <br />
-      <Link to="/signup"  >SignUp</Link>
+      <Link to="/signup"  >SignUp </Link>
 
     </div>
   )
